@@ -15,7 +15,7 @@ else:
 ## Ques3
 import math as mt
 c = 5
-print("Factorial is: ",mt.fact(5))
+print("Factorial is: ",mt.factorial(5))
 
 
 ## Ques4
