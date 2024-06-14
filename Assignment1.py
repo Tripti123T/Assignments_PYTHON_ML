@@ -25,7 +25,7 @@ print("Hello! {}, Good Morning!".format(str))
 
 ## Ques5
 str = input("Enter a string: ")
-samplefile = open(r'C:/Users/tript/OneDrive/Desktop/PYTHON ML/demo.txt' ,'r')
+samplefile = open(r'C:/Users/tript/OneDrive/Desktop/PYTHON ML/demo.txt' ,'w')
 print(str , file = samplefile)
 
 
